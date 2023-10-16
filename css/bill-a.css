@@ -1,0 +1,53 @@
+.live-preview[data-v-97d181b2] {
+    margin-left: 8px
+}
+
+.head_title[data-v-97d181b2] {
+    text-decoration: underline;
+    text-underline-position: under;
+    margin-top: 20px
+}
+
+.btn[data-v-97d181b2] {
+    margin-bottom: 20px;
+    color: #000;
+    background-color: #fe930e;
+    border: transparent;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none!important
+}
+
+.btn[data-v-97d181b2]:hover {
+    background-color: rgba(254,147,14,.65);
+    border: transparent
+}
+
+.btn[data-v-97d181b2]:active,.btn[data-v-97d181b2]:focus {
+    background-color: #fe930e!important;
+    border: transparent;
+    box-shadow: none!important
+}
+
+.logo100[data-v-97d181b2] {
+    color: #fe930e!important
+}
+
+.addBtn[data-v-97d181b2] {
+    background-color: #fe930e!important
+}
+
+.addBtn[data-v-97d181b2],.deleteBtn[data-v-97d181b2] {
+    border: none;
+    color: #fff;
+    border-radius: 60px;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: background-color .3s ease-in-out;
+    height: 100%
+}
+
+.deleteBtn[data-v-97d181b2] {
+    background-color: #f05858!important
+}

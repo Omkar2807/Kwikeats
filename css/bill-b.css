@@ -1,0 +1,110 @@
+.surprise-gift[data-v-0393d8f0] {
+    opacity: .5;
+    top: 120px;
+    left: 150px;
+    position: absolute
+}
+
+.img_class[data-v-0393d8f0] {
+    width: 75%
+}
+
+@media screen and (max-width: 1100px) {
+    .surprise-gift[data-v-0393d8f0] {
+        opacity:.5;
+        top: 200px;
+        left: 0;
+        position: absolute
+    }
+
+    .img_class[data-v-0393d8f0] {
+        width: 100%
+    }
+}
+
+.hat[data-v-0393d8f0] {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: translate(0);
+    z-index: 100
+}
+
+.btn[data-v-0393d8f0] {
+    margin-bottom: 20px;
+    color: #fff;
+    background-color: #fe930e;
+    border: transparent;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none!important
+}
+
+.btn[data-v-0393d8f0]:hover {
+    background-color: rgba(254,147,14,.65);
+    border: transparent;
+    color: #000
+}
+
+.btn[data-v-0393d8f0]:active,.btn[data-v-0393d8f0]:focus {
+    background-color: #fe930e!important;
+    border: transparent;
+    box-shadow: none!important
+}
+
+.buy-credits[data-v-0393d8f0] {
+    background: #fff;
+    border-radius: 10px
+}
+
+.buy-credits .price-amount-buy[data-v-0393d8f0] {
+    flex: 1 0;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 0;
+    -webkit-flex: 1 0
+}
+
+.buy-credits .price-amount-buy .title-pab[data-v-0393d8f0] {
+    font-size: 16px;
+    font-weight: 400;
+    border-bottom: 1px solid #eeeff0;
+    padding: 1px 0;
+    margin-bottom: 10px
+}
+
+.buy-credits .price-amount-buy .list-price[data-v-0393d8f0] {
+    font-size: 14px;
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    margin: 10px -10px 15px
+}
+
+.buy-credits .price-amount-buy .list-price .item[data-v-0393d8f0] {
+    width: calc(50% - 20px);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 0 .0625rem rgb(0 0 0/3%),0 .0625rem .1875rem 0 rgb(0 0 0/12%),0 .0625rem .125rem rgb(0 0 0/15%);
+    cursor: pointer;
+    background: #fff;
+    margin: 10px;
+    display: flex;
+    flex-direction: row
+}
+
+.buy-credits .price-amount-buy .list-price .item[data-v-0393d8f0]:hover {
+    border-color: #fec765;
+    box-shadow: 0 0 10px rgb(1 0 0/35%)
+}
+
+.buy-credits .price-amount-buy .list-price strong[data-v-0393d8f0] {
+    font-weight: 600
+}
+
+.applyBtn[data-v-0393d8f0] {
+    height: calc(1.5em + .75rem + 2px)
+}

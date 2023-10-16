@@ -1,0 +1,10 @@
+.creditsRemain[data-v-7e8502bc] {
+    padding: 5px 20px 20px 0
+}
+
+@media screen and (min-device-width: 100px) and (max-device-width:568px) {
+    .creditsRemain[data-v-7e8502bc] {
+        margin-bottom:20px;
+        padding: 5px 20px 20px 0
+    }
+}
